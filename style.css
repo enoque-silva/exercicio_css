@@ -86,6 +86,9 @@ section h2, .artigos article{
     font-size: 24px;  
 }
 
+section#esportes{
+    background-color: rgba(0, 128, 0, 0.305);
+}
 #esportes .artigos article a{
     background-color: green;
     color:white;
@@ -94,6 +97,9 @@ section h2, .artigos article{
     background-color: rgb(0, 166, 0);
 }
 
+section#economia{
+    background-color: rgba(255, 166, 0, 0.305);
+}
 #economia .artigos article a{
     background-color: orange;
     color:white;
@@ -102,6 +108,9 @@ section h2, .artigos article{
     background-color: rgb(255, 199, 0);
 }
 
+section#entretenimento{
+    background-color: rgba(255, 0, 0, 0.305);
+}
 #entretenimento .artigos article a{
     background-color: red;
     color:white;
@@ -110,6 +119,9 @@ section h2, .artigos article{
     background-color: rgb(255, 67, 0);
 }
 
+section#tecnologia{
+    background-color: rgba(0, 0, 255, 0.305);
+}
 #tecnologia .artigos article a{
     background-color: blue;
     color:white;
